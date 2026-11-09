@@ -1,0 +1,9 @@
+gpui-kit.d.ts
+jsconfig.json
+node_modules/
+.claude/settings.local.json
+reload-trigger
+# 画面を写したスクリーンショット
+herdr-shot.png
+shot*.png
+screenshot*.png
