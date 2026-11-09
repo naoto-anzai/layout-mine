@@ -160,6 +160,13 @@
                       "content": {
                         "mod": "changes"
                       }
+                    },
+                    {
+                      "id": "github",
+                      "type": "block",
+                      "content": {
+                        "mod": "github"
+                      }
                     }
                   ]
                 }
@@ -188,6 +195,14 @@
       },
       "edge": "bottom",
       "align": "end"
+    },
+    {
+      "id": "mods-watcher",
+      "content": {
+        "mod": "mods-watcher"
+      },
+      "edge": "bottom",
+      "align": "start"
     }
   ],
   "cloned_from": {
